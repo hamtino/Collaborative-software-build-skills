@@ -1,0 +1,11 @@
+{
+  "name": "collaborate",
+  "version": "1.0.0",
+  "description": "Collaborative software build skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Juan Jaminton Yate",
+  "license": "ISC"
+}
