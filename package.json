@@ -1,6 +1,6 @@
 {
   "name": "collaborate",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Collaborative software build skills",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "Juan Jaminton Yate",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "logplease": "^1.2.15"
   }
 }
