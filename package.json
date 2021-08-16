@@ -1,6 +1,6 @@
 {
   "name": "collaborate",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "Collaborative software build skills",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "one-liner-joke": "^1.2.2"
+    "one-liner-joke": "^1.2.2",
+    "logplease": "^1.2.15"
   }
 }
